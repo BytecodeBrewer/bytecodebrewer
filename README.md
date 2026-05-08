@@ -4,9 +4,9 @@ A small corner for practical tools, data experiments, automation ideas, and soft
 
 I enjoy building things that make messy workflows cleaner, repetitive tasks less annoying, and data a bit more useful.
 
-Current direction: **data engineering, automation, cloud systems, and AI-enabled workflows** — with a soft spot for projects that connect real-world problems with clean technical execution.
+Current direction: **data engineering, automation, finance, and AI-enabled workflows**
 
-I’m still early in the journey: learning by building, breaking things carefully, and asking questions before pretending I understood everything. A radical concept, apparently.
+I’m still early in the journey: learning by building and breaking things carefully. A radical concept, apparently.
 
 If something here looks interesting, feel free to reach out 🤝  
 I’m always open to exchanging ideas, learning from others, or collaborating on something useful.
