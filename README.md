@@ -1,16 +1,15 @@
-# Introduction to GitHub
+# Welcome to the brewery ☕️
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+A small corner for practical tools, data experiments, automation ideas, and software projects that slowly turn from “hmm, interesting” into “okay, this actually works”.
 
-Hey BytecodeBrewer!
+I enjoy building things that make messy workflows cleaner, repetitive tasks less annoying, and data a bit more useful.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Current direction: **data engineering, automation, cloud systems, and AI-enabled workflows** — with a soft spot for projects that connect real-world problems with clean technical execution.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+I’m still early in the journey: learning by building, breaking things carefully, and asking questions before pretending I understood everything. A radical concept, apparently.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/BytecodeBrewer/skills-introduction-to-github/issues/1)
+If something here looks interesting, feel free to reach out 🤝  
+I’m always open to exchanging ideas, learning from others, or collaborating on something useful.
 
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+Worst case: we talk tech over coffee.  
+Truly catastrophic.
